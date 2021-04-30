@@ -1,0 +1,52 @@
+* {
+    font: 16px italic;
+    color: white;
+}
+
+QWidget#MainWidget {
+    color: white;
+    background-color: qlineargradient(x1:0, y1:0, x2:1, y2:1, stop:0 #25CD22, stop:0.5 #22D4E1, stop:1 #ED17F3);
+}
+
+QTextEdit {
+    background: transparent;
+    border: 1px solid white;
+}
+
+QWidget#ParameterWidget {
+    border: 1px solid white;
+}
+
+QPushButton {
+    border: 1px solid #3EE914;
+    /*border-radius: 6px;*/
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #142DE9, stop: 1 #14E3E9);
+    width: 60px;
+    height: 40px;
+}
+
+QPushButton:hover {
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #EB0BCB, stop: 1 #EB0B33);
+}
+
+QPushButton:pressed {
+    background-color: qlineargradient(x1: 0, y1: 0, x2: 0, y2: 1, stop: 0 #EB440B, stop: 1 #EBCF0B);
+}
+
+QComboBox {
+    border: 1px solid white;
+    background: transparent;
+    color:white;
+    selection-background-color:rgb(80,52,158);
+    combobox-popup: 50;
+}
+
+QComboBox QAbstractItemView {
+    border: 1px solid rgb(195,195,195);
+    background: purple;
+}
+
+QLineEdit {
+    color: #2E62E0;
+}
+
