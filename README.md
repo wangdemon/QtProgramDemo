@@ -12,3 +12,10 @@ This is my Qt program demo
 ![image](https://github.com/wangdemon/QtProgramDemo/blob/main/0%20Images/5.gif)
 ## Find file name
 ![image](https://github.com/wangdemon/QtProgramDemo/blob/main/0%20Images/6.gif)
+## Xml tree
+- xml document to tree widget
+![image](https://github.com/wangdemon/QtProgramDemo/blob/main/0%20Images/7.1.png)
+- search tree widget node
+![image](https://github.com/wangdemon/QtProgramDemo/blob/main/0%20Images/7.2.gif)
+- drag tree widget node
+![image](https://github.com/wangdemon/QtProgramDemo/blob/main/0%20Images/7.3.gif)
